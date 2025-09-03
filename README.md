@@ -1,5 +1,6 @@
 # sk001-keyboard
 Custom handwired 84 key keyboard powered by qmk-firmware and 3d printer
+Main purpose of this project: learn how to make custom keyboard from scratch
 
 Key Layout:  
 ![Layout](/sk001-keyboard-layout.png)
