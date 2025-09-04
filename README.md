@@ -5,6 +5,9 @@ Main purpose of this project: learn how to make custom keyboard from scratch
 Key Layout:  
 ![Layout](/sk001-keyboard-layout.png)
 
+Matrix Layout:
+![Matrix Layout](/sk001-kb-matrix-layout.svg)
+
 Current prototype view:
 ![Prototype](/Content/prototype001.png)
 
